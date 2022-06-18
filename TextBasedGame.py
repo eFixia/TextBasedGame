@@ -1,6 +1,3 @@
-#  Dylan Legere
-#  IT-140
-
 import sys
 import time
 # Dictionary of areas
