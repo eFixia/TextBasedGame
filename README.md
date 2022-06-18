@@ -9,4 +9,4 @@
 #  with the Villain inside and you will be prompted to decide what to do from there.
 
 #  I hope you enjoy the game, it took me a few days to complete it as it was my first project.
-#  Any foodback on how I can improve would be greatly appreciated.
+#  Any feedback on how I can improve would be greatly appreciated.
